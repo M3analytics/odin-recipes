@@ -1,1 +1,2 @@
 # odin-recipes
+This project is about creating a html website and using the various tags and elements available to create the structure. it has four pages. three recipes are available plus their images.
